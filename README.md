@@ -16,7 +16,9 @@ cuDNN 8.1.0 : https://developer.nvidia.com/rdp/cudnn-download<br/>
 
 ## !IMPORTANT<br/>
 noises_model.ftlite는 2개의 출력을 갖습니다.<br/>
+
 1번째는 521가지의 분류를 가진 YAMNET<br/>
 * https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv<br/>
 * https://tfhub.dev/google/yamnet/1<br/>
+
 2번째는 AI HUB의 소음 데이터를 기반으로 분류합니다.<br/>
