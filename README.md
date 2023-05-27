@@ -14,7 +14,7 @@ cuDNN 8.1.0 : https://developer.nvidia.com/rdp/cudnn-download<br/>
 1. Run tensorflow-model-maker.py
 
 
-## !IMPORTANT
-noises_model.ftlite는 2개의 출력을 갖습니다.
-1번째는 521가지의 분류를 가진 YAMNET * https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv
-2번째는 AI HUB의 소음 데이터를 기반으로 분류합니다.
+## !IMPORTANT<br/>
+noises_model.ftlite는 2개의 출력을 갖습니다.<br/>
+1번째는 521가지의 분류를 가진 YAMNET * https://github.com/tensorflow/models/blob/master/research/audioset/yamnet/yamnet_class_map.csv<br/>
+2번째는 AI HUB의 소음 데이터를 기반으로 분류합니다.<br/>
